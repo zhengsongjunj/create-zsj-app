@@ -1,0 +1,29 @@
+{
+  "name": "@zsj-create-app/utils",
+  "version": "1.0.0",
+  "description": "zsj-create-app utils",
+  "author": "zhengsongjun <zheng_songjun@venusgroup.com.cn>",
+  "homepage": "https://github.com/zhengsongjunj/create-zsj-app#readme",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.hetulab.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengsongjunj/create-zsj-app.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/zhengsongjunj/create-zsj-app/issues"
+  }
+}
